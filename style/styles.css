@@ -1,0 +1,25 @@
+a {
+  text-decoration-line: none;
+  color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+header {
+    background-color: #0020F4;
+}
+#contact-color {
+    background-color: #FFFFFF;
+    color: #171717;
+  border-radius: 15px; 
+}
+p {
+    font-size: 28px;
+}
+section image {
+    width: 1195px;
+    height: 600px;
+    object-fit: cover;
+}
